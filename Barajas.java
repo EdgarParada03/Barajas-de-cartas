@@ -57,6 +57,8 @@ public class Barajas {
             j++;
             unionArreglos[j] = crearPalo4[i];
             j++;
+            
+            //Para poder unir los arreglos, me base en este video: https://www.youtube.com/watch?v=0oTbM03P0Vw
                  
         }
         
@@ -72,6 +74,5 @@ public class Barajas {
     }
         
     
-     //reparten las 2 cartas entre 5 jugadores - juntar todos los array
-     //se sacan 3 cartas del array
+     
 }
